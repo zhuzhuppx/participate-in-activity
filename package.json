@@ -1,0 +1,19 @@
+{
+  "name": "participate-in-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor -w server app.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.3",
+    "mongoskin": "^2.1.0",
+    "qr-image": "^3.2.0",
+    "wechat-oauth": "^1.2.1"
+  }
+}

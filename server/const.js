@@ -1,0 +1,5 @@
+module.exports= {
+BASE_URL:'http://192.168.199.131:3000/',
+TYPE_PHONE:'http://192.168.199.131:3000/',
+DATE_TIME_FORMAT:'YYYY-MM-DD HH:mm:ss'
+}
